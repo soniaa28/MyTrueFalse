@@ -1,0 +1,2 @@
+rootProject.name='MyTrueFalse'
+include ':app'

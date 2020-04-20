@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTrueFalse</string>
+    <string name="start">Почати</string>
+    <string name="back">Назад</string>
+    <string name="level">Рівень:</string>
+    <string name="level1">Рівень: 1</string>
+    <string name="leveldesc">Встав правильну букву у слово</string>
+    <string name="leveldescend">Вітаю ,рівень пройдено!</string>
+    <string name="textcon">Продовжити</string>
+
+
+</resources>
